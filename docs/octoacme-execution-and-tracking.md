@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+> For cross-functional transition steps (design-to-dev, dev-to-QA), see the [Cross-Functional Handoff Checklist](./octoacme-handoff-checklist.md).
+> For role ownership across lifecycle activities, see the [RACI Responsibility Matrix](./octoacme-raci-matrix.md).

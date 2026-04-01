@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+> For a full pre-release readiness review across all roles, see the [Cross-Functional Handoff Checklist — Pre-Release Readiness](./octoacme-handoff-checklist.md#3-pre-release-readiness-checklist).
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

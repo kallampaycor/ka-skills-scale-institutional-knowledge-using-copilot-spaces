@@ -22,3 +22,5 @@ Quality assurance is embedded throughout delivery via defined PR and testing pra
 - [Release & Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [RACI Responsibility Matrix](./octoacme-raci-matrix.md)
+- [Cross-Functional Handoff Checklist](./octoacme-handoff-checklist.md)
